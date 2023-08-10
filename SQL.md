@@ -1,2 +1,2 @@
-## Exercicios-SQL
+# Exercicios-SQL
      Mostrando meu conhecimento com banco de dados relacional
